@@ -20,7 +20,7 @@ Designed for speed and simplicity, Fuchsia offers a unique command dispatch syst
 
 ## 📸 Screenshot
 
-![Fuchsia Shell Screenshot](github_ba)
+![Fuchsia Shell Screenshot](fuchsia_banner.png)
 
 ## 🛠️ Installation
 
