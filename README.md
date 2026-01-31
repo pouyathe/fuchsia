@@ -8,7 +8,7 @@ Designed for speed and simplicity, Fuchsia offers a unique command dispatch syst
 ![Version](https://img.shields.io/badge/version-1.2__2-blue)
 ![Language](https://img.shields.io/badge/Glang-5.7.6-red)
 ![Based on](https://img.shields.io/badge/Written_In-G-purple)
-
+> because github still not support G as programming language, GAP is actully G.
 
 ## 🚀 Features
 
